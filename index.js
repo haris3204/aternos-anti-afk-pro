@@ -18,9 +18,9 @@ let movementTimeout;
 
 function createBot() {
   bot = mineflayer.createBot({
-    host: 'random67-dpdns-org.aternos.me',
+    host: 'play.pvpxmz.2bd.net',
     port: 57950,
-    username: 'always_on_bot',
+    username: 'npc_extra',
     version: '1.21.4'
   });
 
